@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /home/innopolis/Documents/crawler/bin/python /home/innopolis/Documents/crawler/lib/python2.7/site-packages/PyQt4/uic/pyuic.py ${1+"$@"}

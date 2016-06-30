@@ -1,0 +1,12 @@
+TARGET = pyrcc4
+TEMPLATE = app
+QT -= gui
+QT += xml
+CONFIG += warn_on release
+CONFIG -= android_install
+target.path = /home/innopolis/Documents/crawler/bin
+INSTALLS += target
+INCLUDEPATH += /home/innopolis/Documents/crawler/lib/PyQt-x11-gpl-4.11.4/pyrcc
+VPATH = /home/innopolis/Documents/crawler/lib/PyQt-x11-gpl-4.11.4/pyrcc
+HEADERS = rcc.h
+SOURCES = main.cpp rcc.cpp
