@@ -1,4 +1,4 @@
-#!/home/innopolis/Documents/crawler/bin/python
+#!/home/innopolis/Documents/Crawler-Innopolis/bin/python
 
 import sys
 import getopt
