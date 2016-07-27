@@ -1,0 +1,185 @@
+"DESCRIPTION";"THEME";"TAG";"MULTITHEMES"
+"""The operation of potentially large numbers of drones at low levels, mostly outside airspace where there is any formal ATC, presents a number of significant operational challenges. For this reason, it is necessary to establish a clear concept of operations that is understood and agreed by all stakeholders. The research will include identification of how drones can be operated safely in non-nominal situations, without posing an unacceptable danger to other airspace users, or people and property on the ground.As with any disruptive technology or concept, the reaction from society will vary enormously depending on the perspective of the individual or organisation. Furthermore, the fundamental rights of European citizens must be protected from intrusion by drone operators. Consequently, this project will also examine non-aviation aspects of drone operations, to identify key issues for society and to offer solutions to ease social acceptance.In reference to the SJU Annual Work Programme 2016, this topic covers Section 3.5.3 (e) 1) topics a) to d).This project addresses those drones that are expected to operate in the VLL environment, covering many types of aerial activity, including leisure, remote infrastructure inspection, rural operations, flights in densely-populated and urban areas, and flights near protected sites, such as airports or nuclear power stations. Although manned aviation operating in this airspace is typically uncontrolled, it will be necessary to address how drones might operate within controlled airspace near, for example, airfields. In addition, VLL airspace is also used by other classes of airspace users, such as military aircraft, rotorcraft, balloons, hang-gliders, micro-lights, parachutists and so on. The Concept must enable safe interaction with all these users. Operational considerations must include contingencies and emergencies, and societal issues must also be addressed.This topic is not intended to address particular technological solutions, which are covered in ‘WA-2: Technical Issues’ in this Call. However, it will be necessary for the project to identify where technical developments are needed, and to quantify, as far as possible, the high-level safety and performance requirements of that technology needed to implement the Concept. The project should not propose specific technology choices.Since the Operational Concept is the foundation upon which additional drone research work will be conducted, the project will produce of a set of reference scenarios that illustrate the wide variety of drone operations that could be anticipated.The development of the concept of operations should take into account work already undertaken around the world on this subject in order to promote relevant global harmonisation, in particular NASA’s Unmanned Traffic Management (UTM) research project, and work being undertaken by JARUS. The project should make clear any assumptions made about the volumes of traffic used to define the concept and any implications for its viability if those assumptions are inaccurate.The generation of a successful and accepted concept of operations for the operation of drones is a prerequisite for the development of standards, regulations, management and control agencies, operating procedures and business plans. It will also provide the foundation upon which technical and infrastructure developments can be made in order to allow the drone market to achieve its full potential.""";"R & D";"Drones
+ Aeronautical
+ Airplanes
+ R & D
+ Innovation
+ Clean Sky Programm
+ Airspace
+ Airflight Safety
+ Human Rights
+ Air Traffic Control
+ Societal Challenges
+ Aviation
+ Concept of Operations
+ JARUS : Joint Authorities for Rulemaking on Unmanned Systems";"COMMERCE / SECURITE / INNOVATION / AFFAIRES SOCIALES / INDUSTRIE"
+"""In manned aviation, the sharing of timely and relevant information, of guaranteed quality, is recognised as a prerequisite for safe and efficient operations. Drones will operate in complex low-level airspace where there will be other drones, manned aircraft, buildings and terrain hazards. It is essential, therefore, that aeronautical information and planning facilities are sufficiently robust and accurate to enable these operations to be conducted safely and efficiently.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topic a).It is anticipated that information management will be as applicable to drone operations as it is to manned aviation, but it is not clear if the type of data currently available to manned aviation, and the way it is managed and accessed, is appropriate to drone operations. This should be investigated. Furthermore, the cost implications should be considered against the potentially more financially-constrained nature of many forms of drone operation.The range of drones under consideration is very large, ranging from small line-of-sight (LOS) drones of limited capability, all the way up to extremely advanced machines flying autonomously over long distances in a wide variety of airspace environments. Consequently, this topic should consider information management from the perspective of the many mission types that may be envisaged. A scenario-based approach may be considered to illustrate the range and applicability of information management.A project proposing to cover this topic should make clear any assumptions made about the volumes of traffic used in the analysis and any implications for the conclusions.There is likely to be a vast amount of information generated by the appearance of large numbers of drones in the skies. Unless drone operations are supported by an appropriate information-management environment, it is unlikely that safe and effective drone operations could be conducted. This study will identify drone-specific issues concerning information management, the need for integration with manned aviation, and explore solutions to the issues raised. In doing this, a safe increase in drone activity will be supported, and growth of the industry promoted.""";"R & D";" ICT (Information Communication Technologies)
+ Drones
+ Aviation
+ Airspace
+ R & D
+ Innovation
+ Aeronautical
+ Airflight Safety
+ SJU
+ Aviation Authorities
+ European Aviation Safety Agency (EASA)
+ Clean Sky
+ Cyber Security
+ Datalink
+ Single European Sky";"COMMERCE / SECURITE / INNOVATION / DEVELOPPEMENT ECONOMIQUE / INDUSTRIE"
+"""VLL drones represent a new type of air vehicle that operate in a fundamentally different way to conventional aviation. In order to remain safe and effective, they will require new technologies to be developed and installed on the air vehicle itself, or for existing technologies to be used in a different way, both of which should be safely interoperable with existing manned aviation.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topic d).This topic covers technologies that will need to be fitted to drones in order to implement the concept of operations for VLL drones. It is recommended that the project proposing to cover this topic works closely with Topic 1 in order to promote a coherent approach to addressing the problem. Since there are likely to be a wide variety of drone types, operating in different ways, the project should consider not just individual technologies, but how such technologies should interoperate with other drones and manned aviation, especially when large numbers of drones are deployed. The impact on spectrum should also be considered where applicable.This Topic should address all aspects of airborne technology, including Communications, Navigation and Surveillance systems, Detect and Avoid systems, auto-pilot systems (including for autonomous operations). The Topic should include coverage of the miniaturisation of drone technologies and what could be done to produce lower-cost systems than are currently in use in manned aviation, including the use of non-certified systems.There is a wide variety of drone types varying from those small ‘toy-like’ machines with limited capability, all the way up to highly-advanced systems with performance very similar to manned aircraft. Consequently, the range of technologies needed to enable all anticipated variations in drone operations is vast. This project is expected to explore a comprehensive range of options for airborne technology across the full range of drone operations, enabling the growth of the sector and the safe integration of drones with other drones and with manned aviation.""";"R & D";"Very Low Level (VLL) Drones
+ Air Vehicle
+ R & D
+ Innovation
+ SJU Annual Work Programme
+ Concept of Operations for Drones
+ Airborne Technology
+ Aviation Safety
+ Unmanned Aviation
+ Navigation and Surveillance Systems
+ Drone Technologies
+ Airspace
+ Airflight Safety";"COMMERCE / SECURITE / INNOVATION / DEVELOPPEMENT ECONOMIQUE / INDUSTRIE"
+"""The operation of drones in VLL airspace introduces new challenges not encountered by manned aviation. Typically, outside the vicinity of airfields, there is limited infrastructure to support aerial operations, such as communication and surveillance. Furthermore, conventional navigation infrastructure may not be able to support the needs of VLL operations. It is necessary, therefore, to examine the concept of operations for VLL drone operations and to specify the ground-based technologies that are required to enable that concept.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topic d) and e).This project should examine what ground-based technologies are needed to support UTM, describe its technical architecture and indicate its performance requirements. It should address the use of communications, navigation and surveillance technologies, and how data supplied by these means should be used and by whom, including the need for traffic situation and other displays. The complications posed by the operation of drones beyond line of sight should be addressed.The specification of data links is not in the scope of this topic, and nor are issues related to the performance of networks needed to support them, or spectrum issues for any technologies considered in the concept for any purposeIt is certain that the new concept of VLL operations by drones will need both new technologies and the re-use of existing technologies in order to function safely and efficiently. Correct specification of this technology will significantly facilitate the effective implementation of drone operations.""";"R & D";"Drones
+ Airfields
+ Airspace infrastructure
+ Air Traffic Operations
+ Airspace Security
+ Navigation infrastructure
+ VLL Operations
+ Navigation infrastructure
+ SESAR Programme
+ SJU Programme (SESAR Joint Undertaking Programme)
+ Single European Sky
+ ATM Research (Air Traffic Management Research)
+ R & D
+ Innovation";"COMMERCE / SECURITE / INNOVATION / DEVELOPPEMENT ECONOMIQUE / INDUSTRIE"
+"""Most drones, even autonomous ones, will need some form of data link. This could be for command and control, payload, collision avoidance, communication with the UTM system etc. Many technologies exist for data link from within and without the aviation world and it is necessary to identify which technologies are suitable for use to enable safe and efficient drone operations. Each technology places demands on both supporting networks and the electromagnetic spectrum. Given the potential volume of drones that may be operating, it is critical to understand the ability of scarce spectrum resources to support such datalink requirements, and to ensure that drone operations using these technologies do not adversely interfere with manned aviation.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topic b).This topic covers all issues concerning use of data link for drones. It should explore technological solutions, their limitations, their relevance and their performance requirements, including usage of spectrum. However, any data links concerned with drone payload operations are not in scope of this project, unless they are dual-use. In that case, the safety, redundancy and performance issues associated with dual-use technology should be addressed. The topic should also cover the network issues associated with the use of drone data links, including options for implementing a suitable network or networks, such as use of mobile telecommunications networks.It is likely that drones of different classes will have very different requirements. A range of drone types should be examined, and a scenario-based approach may be considered.Data links are an essential component of drone operation. The wide variety of drones entering service, and the wide range of missions for which they are likely to be used, means that it is vital to ensure that data links used are safe, effective, meet appropriate performance requirements and do not adversely affect that spectrum protected for use by aviation stakeholders. It is essential to understand these issues and ensure that they are well controlled in order for drones to be safely integrated with manned aviation.""";"R & D";" Low Altitude Drones
+ ATM Drones (Air Traffic Management for Drones)
+ UTM (Unmanned Traffic Management)
+ Drones datalink
+ Aviation
+ Airspace
+ SJU Annual Work Programme 2016
+ Cyber Security
+ Drones requirements
+ Drones standards
+ Single European Sky
+ Mobile telecommunications
+ ICT Drones
+ R & D
+ Innovation
+Unmanned Aircraft Systems
+Aerospace Technologies";"COMMERCE / SECURITE / INNOVATION / DEVELOPPEMENT ECONOMIQUE/ INDUSTRIE"
+"""The operation of drones represents a new challenge to society in that, for the first time, airborne assets will be available to anyone to fly, yet which have the capability to invade privacy or to cause distress and damage to people and property. It is essential, therefore, to ensure that the risk to the public is minimised by effective regulation, supported by appropriate technologies. Furthermore, it is essential that the potential for drones to fly where they are not supposed to is minimised as far as possible.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topic a) with regards to geofencing and f).This topic covers security from three perspectives:Security of the drone system;Security of third parties as a result of the operation of a drone system; andApplication of geo-fencing to ensure compliance with mission and airspace constraints.A project proposing to cover this topic should investigate how to protect the drone system itself to ensure that, not only can it be prevented from performing outside its intended manner through some unexpected interference, for example, but also that the drone could not be unlawfully interfered with in order to deliberately divert it from its intended mission.Drones have the potential to execute illegal and dangerous activities including, for example, acts of terror. This project will look at ways of reducing the risk of such unlawful interference.A project proposing to cover this focus should also examine the concept of geo-fencing. This includes examining the UTM concept developed in Work Area 1, including concepts for airspace classification and reservation, and examine options for ensuring that airspace constraints cannot be violated.This topic covers technological options for both airborne and ground elements, including navigation, communication between air and ground, in-flight updates, network requirements, service provision options etc.There is considerable concern about the security implications of the proliferation of drone operations. This project will analyse the problem so that security issues can be effectively addressed as drone operations are enabled. Geo-fencing can be used advantageously to allow or deny any action of a drone, depending on its position. Successful deployment of such systems should increase safety and prevent unlawful activity by drone operators.""";"R & D";"Drones
+Societal challenges
+Airborne assets
+Drone regulations
+Single European Sky
+Aviation Safety
+SJU Annual Work Programme 2016
+UTM Concepts
+Defense
+Air Defense
+Terrorism
+Geo-fencing Concept
+Airspace classification
+Airspace reservation
+Airspace constraints
+Airborne and ground elements technologies
+Navigation technologies
+In-flight updates
+Drones security";"COMMERCE / SECURITE / INNOVATION / DEVELOPPEMENT ECONOMIQUE / INDUSTRIE"
+"""It is expected that, by 2035, our skies will go through a profound change. Where currently airspace is sparsely occupied by larger aircraft at higher altitudes and by small leisure and commercial aircraft closer to the ground, the rise of commercial & civil drone usage would lead to a much denser form of air traffic at VLL, with many more interactions between air traffic participants. This poses a considerable challenge from a traffic management point of view.The challenge is to find a robust and interoperable technical solution that is suitable for the smallest of drones. Importantly, many of these drones are envisaged to operate autonomously. The solution will have to be lightweight, energy efficient, and allow for autonomous avoidance manoeuvres even on the smallest of drones.In reference to the SJU Annual Work Programme 2016, this topics covers Section 3.5.3 (e) 2) topics a) to e) for long term aspects.This project will answer the question: “How can drones best leverage a sensor suite of state-of-the-art electronic sensors and communication devices in order to make a safe, robust and interoperable VLL UTM solution for e.g. detect-and-avoid that still fits on small drones?”The mobile phone industry has spurred an unprecedented advance in the production of small electronics, which has resulted in a plethora of sensors, processors, and communication devices, including small cameras, tiny radars, structured light sensors, microphones, and small communication devices. It is possible that, by combining these sensors in the best way possible, a common solution to VLL UTM could be found.For full robustness, the solution should involve both collaborative conflict resolution and, for where collaborative systems fail or are not present, non-collaborative conflict resolution. For non-collaborative conflict resolution, multiple sensors should be investigated and combined in a single, lightweight sensor and navigation package, in which sensor data-fusion leads to high robustness. It should also be investigated how this solution would perform in densely-populated areas, with drones flying in an urban environment or even indoors. Also, it will have to be investigated how the interaction should be shaped with a potentially very connected ‘Internet of Things’ environment.The topic should research sensor selection, data fusion and supporting procedures to fully describe the proposed solution.There is expected to be a significant rise in the number of small drones operating in the VLL environment, which is largely uncontrolled but still used by manned aviation. Implementation of a sensor suite able to be carried by small drones and capable of avoiding other drones, manned aircraft and other obstacles would significantly assist the growth of the small-drone sector and enable its safe operation in all classes of airspace.""";"R & D";"Large aircraft security
+Commercial aircraft
+VLL Drones
+Energy Efficiency
+Drones autonomous maneuvers
+SJU Annual Work Programme
+VLL State-of-the-art
+Detect-and-avoid Drone technologies
+VLL and mobile phone technologies
+Sensors and processors
+Urban environment
+Lightweight sensor and Navigation Package
+Data Fusion
+Small-drone sector
+Airspace safety";"COMMERCE / ENERGIE / ENVIRONNEMENT / DEVELOPPEMENT ECONOMIQUE / DEVELOPPEMENT DURABLE / INDUSTRIE"
+"""Infection with Clostridium difficile, a Gram-positive spore-forming anaerobe, is the most common cause of nosocomial diarrhoea in developed countries and leads to symptoms that range from self-limiting mild-moderate watery diarrhea to severe fulminant diarrhea, abdominal pain and pseudomembranous colitis. In some patients it may progress to toxic megacolon, colonic perforation and death.Over 500,000 new cases of C. difficile infection occur each year in the US and estimates suggest greater than 400,000 diagnosed CDI events occur annually in Europe, although the true incidence is likely to be much higher. Furthermore, the burden of CDI outside of the acute care hospital environment, particularly in nursing homes and long-term care facilities, is under-estimated.There is therefore a need to develop a robust assessment of the burden of CDI and current practices in Europe. Development of a detailed understanding of the epidemiology and clinical impact of CDI; more specifically to:These efforts can be expected to result in the support of adequate public health intervention and practices. It will help in speeding up the development of alternative prevention and treatment approaches.""";"SANTE";"""Public Health
+Contagious disease
+Nosocomial Diarrhoea
+Abdominal Pain
+Clostridium Difficile Colitics (CDI)
+Hospital Environment
+Nursing homes
+Disease Prevention
+European Center for Disease Prevention and Control
+R & D
+Clinic
+Epidemiology
+Public Health Practices
+Alternative Health Prevention
+Alternative Health Treatments""";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES "
+"""Autoimmune diseases affect approximately 5% of the population of Europe, with two-thirds of the patients being female.Development of a translational research project for the induction and monitoring of immune tolerance in Rheumatic Diseases: Rheumatoid Arthritis (RA).If successful, immune tolerance approaches would revolutionize treatment of RA by inducing drug-free remission. Coupled with diagnostic tests, screening initiatives for “at-risk” individuals, it may stop the disease before joint damage can occur. For healthy but at-risk patient, this would offer a screening and “vaccination” for the prevention of RA.""";"SANTE";"Autoimmune diseases
+Immune tolerance
+Rheumatoid Arthritis (RA)
+R & D
+Transnational Health Research Project
+Drug-free remission
+Diagnostic test
+“vaccination” for the prevention of RA";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES "
+"""Reproducibility and relevance of research findings represent the pillars of the scientific method. For drug development, robust data and scientific rigor are key drivers for decision making, determining patent strength, time-to-market and consequently availability of new treatments to patients. Substantial evidence has accumulated that robustness, rigor and validity of research data can be problematic. While the issues at hand concern all areas of Research & Development, the impact of unreliable data, as well as the potential benefit of intervention, is greatest in areas already facing additional challenges, such as Neuroscience.Starting with a first pilot project focused on Neuroscience and Safety, the goal is to advance the quality and efficiency of Discovery R&D data. This action should provide evidence/data to develop quality criteria for new and/or improved preclinical tests, develop consensus quality management recommendations in non-regulated R&D to enhance the quality of decisions made based on experimental data, and by developing an educational course on data quality as a major contributor to enhance the quality culture in preclinical research. The action should also contribute to the development of a proficiency test system (ring tests) in preclinical research and to the implementation and testing of the quality principles developed by the consortium in day-to-day research settings, both in academia and industry, to achieve maximal cross fertilization and cultural exchange.These efforts can be expected to result in an improvement in the data quality of pre-clinical studies via the delivery of reliable and reproducible models with harmonized and standardized protocols and procedures. There will also be a significant contribution to the 3Rs (replacement, reduction and refinement) in the use of experimental animals in preclinical research, to IP protection and regulatory success by ensuring validity and traceability of data. Through dissemination of the scientific quality principles a cultural change and ripple effect should be triggered. Accreditation, consensus quality management recommendations, and an education module on data quality will further facilitate the implementation of innovation from academia and SMEs into the R&D process and will obviate the need for duplicate assessment of external partners.""";"SANTE";"Public Health
+Reproducibility Research
+Health Scientific Method
+Health Robust Data
+Patent Strenght
+New treatments
+R & D
+Health Unreliable Data
+Neuroscience and Data
+Discovery R & D Data
+Quality Management on Experimental Data
+Preclinical Research
+Proficiency Test System (Ring Tests)
+Data quality of Preclinical Research
+IP Protection";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES / EDUCATION"
+"""Efficient and adequate safety assessment remains one of the main challenges in the drug discovery, development and submission process. Recent advances have shown that sharing of public & private pre-clinical data is achievable. In parallel, the electronic CDISC-SEND format has been chosen for file submission to the FDA. This offers the opportunity to generate and exploit a large amount of organised data to allow the in-depth assessment of the preclinical species predictivity to human.The NexGETS project will:The NexGETS project should aim to set world standards and act as the central partner to go to in terms of preclinical data handling, analysis and use for predictive toxicologyThis approach will have an impact on the 3RsThe same cause has also an incidence on the attrition rate which should logically equally improve overall.This approach should also reduce the length of development before reaching patients.""";"SANTE";"Public Health
+Drug Discovery
+Development and submission process
+Public and Private pre-clinical data
+CDISC-Send Format
+FDA (Food and Drug Administration)
+In-depth assessment of pre-clinical species
+NexGETS
+World standards preclinical data";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES / EDUCATION / INDUSTRIE"
+"""The central challenge to be addressed is to establish and validate non-invasive markers for classifying and evaluating subjects with NAFLD, and in particular to identify amongst those with NAFLD, individuals who have Nonalcoholic steatohepatitis (NASH). Identifying and validating these biomarkers will be crucial in furthering an understanding of the factors that drive the heterogeneity of NAFLD and in enabling accurate diagnosis of those with NASH. The ultimate challenge that will be addressed is to validate one or more NAFLD biomarkers that can serve as surrogates for development of clinically meaningful outcomes.The scope of this proposed biomarker collaborative research for NAFLD and NASH will encompass development of diagnostic and staging biomarkers that can separate NASH from NAFLD, and more specifically, identify the presence and severity of inflammation and fibrosis. This will serve to help identify the most appropriate population for a particular treatment. Secondly, development of biomarkers that can predict progression. It is recognized that in general, NASH progresses slowly toward End-Stage Liver Disease (ESLD). However, there do appear to be subgroups that progress fairly rapidly. Accordingly, there is a need to qualify biomarkers that can identify “fast progressors” amongst those who meet criteria for a diagnosis of NASH. Finally, the ultimate goal of this biomarker research is to provide evidence supporting the regulatory acceptance of non-invasive biomarkers as surrogates for clinically important endpoints. It will be a long-term goal of this collaborative research to validate biomarkers that reliably identify and predict risk for cirrhosis and complications of ESLD (e.g. varices, ascites) and that reliably identify and predict risk for hepatocellular carcinoma (HCC). It is expected that this program to identify and qualify non-invasive biomarkers for NAFLD and NASH will be transformative for clinical management of patients and profoundly enabling for drug development for treatment of NASH. Accurate diagnosis and effective treatment are the twin pillars that support medical practice and the unmet need that is present with regard to NAFLD and NASH cannot be effectively addressed without the elucidation of validated biomarkers.""";"SANTE";"
+Public Health
+Non-Alcoholic Fatty Liver Disease (NAFLD)
+Nonalcoholic steatohepatitis (NASH)
+Validate biomarkers
+Societal Challenges
+Particular Treatment (NAFLD)
+End-Stage liver Disease (ESLD)
+Predict risk for hepatocellular carcinoma (HCC)";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES "
+"""A strengthened capacity in Europe to monitor the effectiveness of the yearly seasonal influenza vaccines across age, risk groups and vaccines is needed. National public health bodies have a role in assessing national vaccination programmes, and vaccine manufacturers are accountable for the quality and integrity of vaccine product-specific data presented to regulatory authorities. Collaboration and partnership amongst public health institutes, regulatory bodies and vaccine manufacturers is therefore necessary to build a strong platform to perform influenza effectiveness assessmentsThe scope of the action includes the development and validation of a sustainable governance model for the evaluation of type/brand-specific seasonal influenza vaccine effectiveness in Europe, through collaboration between public and private partners. Furthermore, the scope of the action is to build an EU/EEA-wide recognised and accepted platform for influenza vaccine effectiveness studies, including the development of tools for communication and dissemination of the results obtained from the studies.It is expected that the action will result in better information for healthcare professionals and the general public about the performance of the influenza vaccines in use, better information on the performance of national immunization programmes, improved understanding of the benefits of influenza vaccination, and better understanding of the factors that impact influenza vaccine effectiveness. The action will likely positively influence societal acceptance of influenza vaccines, result in improved vaccine coverage in the EU and ultimately reduced disease burden.If successful, the model could be expanded to evaluation of all other vaccines used in national/sub-national immunisation programmes. """;"SANTE";"
+Public Health
+Societal Challenges
+National public health bodies
+Assessing national vaccination programmes
+Vaccine manufacturers 
+Quality and integrity of vaccine product-specific data presented to regulatory authorities
+Partnership amongst public health institutes, regulatory bodies and vaccine manufacturers
+Monitor the effectiveness of the yearly seasonal influenza vaccines
+ Building an EU/EEA-wide recognised and accepted platform for influenza vaccine
+Information on the performance of national immunization programmes
+Improved vaccine coverage in the EU 
+Evaluation of all other vaccines used in national/sub-national immunisation programmes
+";"R&D / INNOVATION / SECURITE / AFFAIRES SOCIALES "
+"""ObjectivesFrontier research often generates unexpected or new opportunities for commercial or societal application. The ERC Proof of Concept Grants aim to maximise the value of the excellent research that the ERC funds, by funding further work (i.e. activities which were not scheduled to be funded by the original ERC frontier research grant) to verify the innovation potential of ideas arising from ERC funded projects. Proof of Concept Grants are therefore on offer only to Principal Investigators whose proposals draw substantially on their ERC funded research.Ethical PrinciplesAll proposals will be subject to ethics review as with proposals for the ERC's frontier research grants.Eligibility CriteriaEligible Principal InvestigatorAll Principal Investigators in an ERC frontier research project, that is either on going or has ended [1] less than 12 months before the opening date of this call, are eligible to participate and apply for an ERC Proof of Concept Grant.A Principal Investigator whose proposal was rejected on the grounds of a breach of research integrity in the calls for proposals under Work Programmes 2014 or 2015 may not submit a proposal to the calls for proposals made under Work Programme 2016.Eligible projectsAll proposals must be complete and be submitted before the relevant call deadline. Incomplete proposals may be declared ineligible.The content of the proposal must relate to the objectives and to the grant type set out in the call, as defined in this work programme. A proposal will only be deemed ineligible on grounds of ‘scope’ in clear-cut cases.Where there is a doubt on the eligibility of a proposal, the peer review evaluation may proceed pending a decision following an eligibility review committee. If it becomes clear before, during or after the peer review evaluation phase, that one or more of the eligibility criteria has not been met, the proposal will be declared ineligible and not considered any further.Applicants will need to demonstrate the relation between the idea to be taken to proof of concept and the ERC frontier research project (Starting, Consolidator, Advanced or Synergy) in question.More than one Proof of Concept Grant may be awarded per ERC funded frontier research project but only one Proof of Concept project may be running at any one time for the same ERC frontier research project [2].Eligible Host InstitutionThe host institution (Applicant Legal Entity [3]) must engage the Principal Investigator for at least the duration of the proof of concept project as defined in the grant agreement and must be established in a Member State or an Associated Country[4].Please also refer to Annex 3 - Countries Associated to Horizon 2020 and Restrictions Applying to Some Legal Entities Established in Certain Third Countries.Maximum size of grant and grant assessmentThe financial contribution will be up to a maximum of EUR 150 000 for a period of 18 months. The ERC expects that normally, proof of concept projects should be completed within 12 months. However, to allow for those projects that require more preparation time, projects will be signed for 18 months. Given this initial flexibility, extensions of the duration of proof of concept projects may be granted only exceptionally.The overall level of the funding offered will be assessed during the evaluation. The funding requested by the applicant will be judged against the needs of the proposed activity before award. The funding requested by the Principal Investigator must be fully justified by an estimation of the actual costs for the proposed activities.The Union financial contribution will take the form of the reimbursement of up to 100% of the total eligible and approved direct costs and of flat-rate financing of indirect costs on the basis of 25% of the total eligible direct costs [5]. The level of the awarded grant represents a maximum overall figure – the final amount to be paid must be justified on the basis of the costs actually incurred for the project.The indicative budget for this call for 2016 is EUR 20 000 000 (approximately one-third of which will be for each of the three evaluation rounds following three specific deadlines - proposals submitted before each cut-off date will be evaluated with the proposals submitted before the same cut-off date).[1]Where the duration of the project fixed in the ERC Grant Agreement has ended.[2]This limit also applies to Synergy projects.[3]Please see important information for Principal Investigators, Candidates, Tenderers and Grant Applicants on possible registration of legal entities in the Commission's Early Warning System (EWS) and Central Exclusion Database (CED) on final page.[4]It may also be an International European Interest Organisation (such as CERN, EMBL, etc.), the European Commission's Joint Research Centre (JRC), or an entity created under EU law. Any type of legal entity, public or private, including universities, research organisations as well as undertakings can host the Principal Investigator and his/her team.[5]Excluding the direct costs for subcontracting and the costs of resources made available by third parties which are not used on the premises of the host institution.""";"INNOVATION";"ERC Proof of Concept Grants 
+Excellent research
+European Research Council
+ERC funds and call of proposals
+ERC frontier research project
+European Interest Organisation (such as CERN EMBL etc.)
+European Commission's Joint Research Centre (JRC)";"R&D / INNOVATION / AFFAIRES SOCIALES / EDUCATION / SANTE"

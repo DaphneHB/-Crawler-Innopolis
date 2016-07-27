@@ -1,0 +1,21 @@
+{ "_id" : "552256c777c833c555d3e3a9", "name" : "Enseignement", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3aa", "name" : "Activités financières et d'assurance", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3ab", "name" : "Administration publique", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3ac", "name" : "Gestion publique", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3ad", "name" : "Education - Formation", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3ae", "name" : "Economie - Finances", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3af", "name" : "Agriculture sylviculture et pêche", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3b0", "name" : "Information et communication", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3b1", "name" : "Agriculture - Pêche", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b2", "name" : "Information", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b3", "name" : "Activités de services administratifs et de soutien", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3b4", "name" : "Santé humaine et action sociale", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3b5", "name" : "Recherche", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b6", "name" : "Santé", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b7", "name" : "Environnement", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b8", "name" : "Industrie", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3b9", "name" : "Justice - Securité", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3ba", "name" : "Activités spécialisées scientifiques et techniques", "type" : 1 }
+{ "_id" : "552256c777c833c555d3e3bb", "name" : "Urbanisme", "type" : 3 }
+{ "_id" : "552256c777c833c555d3e3bc", "name" : "Transport", "type" : 3 }
+

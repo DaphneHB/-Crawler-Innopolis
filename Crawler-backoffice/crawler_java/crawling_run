@@ -1,0 +1,71 @@
+subvensions misent dans private List<Subvention> subventions = Collections.synchronizedList(new ArrayList());
+
+
+
+@Override
+	public void run(final String site)
+	{
+		System.out.println("-> crawling of http://ec.europa.eu/research/participants/portal/data/call/" + site);
+		final String jsonText = readJsonFromUrl("http://ec.europa.eu/research/participants/portal/data/call/" + site + "/" + site + "_topics.json");
+		final JSONArray jsonArrayTopics = getJsonData(jsonText);
+		final WaitingAction waitingAction = new WaitingAction(jsonArrayTopics.length());
+		final Thread th = new Thread(waitingAction);
+		th.start();
+		new Runnable()
+		{
+			@Override
+			public void run()
+			{
+				for (int i = 0; i < jsonArrayTopics.length(); i++)
+				{
+					final Subvention subvention = CrawlerDAO.createSubvention(CrawlerDAO.getUser("Hajatiana"));
+					try
+					{
+						final JSONObject jsonTopic = (JSONObject)jsonArrayTopics.get(i);
+						if(jsonTopic.getString("callStatus").toLowerCase().equals("closed"))
+							continue;
+						addFieldSubvention(jsonTopic, subvention, getProgrammeName(site));
+						subvention.setWebsite(IUrls.EUROPA_TOPICS + site + "/topics/" + jsonTopic.getString("topicFileName") + ".html");
+						subvention.setDifficulty(3);
+						subvention.setConditionFinancement(IStrings.EUROPA_CONSORTIUM_REQUIREMENTS);
+						subvention.setType(TypeSubvention.CALL_PROPOSAL);
+						final Document doc = Jsoup.connect(subvention.getWebsite()).get();
+						final Elements topicDetails = doc.select("div.more-block");
+						for (final Element element : topicDetails) {
+							element.select("h5").remove();
+						}
+						subvention.setDetails(topicDetails.outerHtml());
+						subvention.setPermanent(true);
+						subvention.setDateAjout(new Date());
+						subvention.setDateMiseAJour(new Date());
+						subvention.setAreas(new HashSet<>(areas.subList(0, 5)));
+						subvention.setTags(new HashSet<>(tags.subList(0, 5)));
+						Set<Theme> themes = new HashSet<>();
+						for(String theme : getThemeName(site)){
+							themes.add(CrawlerDAO.getTheme(theme));
+						}
+						subvention.setThemes(themes);
+						subvention.setOrganisations(new HashSet<>(organisations));
+
+						//Si on teste qu'une subvention n'est pas déjà dans la base
+						//Pour l'instant, c'est basé sur le nom mais on pourra rajouter d'autres filtres de recherche
+
+						if(CrawlerDAO.getSubventionByName(subvention.getNom())==null){
+							CrawlerDAO.saveSubvention(subvention);
+							subventions.add(subvention);
+						}
+
+						waitingAction.increment();
+					} catch (final IOException | JSONException e1) {
+						e1.printStackTrace();
+					}
+				}
+			}
+		}.run();
+		try {
+			Thread.sleep(100);
+		} catch (final InterruptedException e) {
+			e.printStackTrace();
+		}
+
+	}

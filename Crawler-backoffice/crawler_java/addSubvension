@@ -1,0 +1,28 @@
+@Override
+	public void addFieldSubvention(JSONObject jsonTopic, Subvention subvention, String subventionName) {
+		try {
+			final JSONArray jsonArrayDeadlineDates = jsonTopic.getJSONArray("deadlineDates");
+			final List<Long> deadlinelist = new ArrayList<Long>();
+			for(int i=0; i<jsonArrayDeadlineDates.length(); i++){
+				try{
+					deadlinelist.add(jsonArrayDeadlineDates.getLong(i));
+				}
+				catch(JSONException e){
+					try {
+						String dateString = jsonArrayDeadlineDates.getString(i);
+						Date date = dateFormat.parse(dateString);
+						deadlinelist.add(date.getTime());
+					} catch (ParseException e1) {
+						System.out.println("ERREUR");
+						return;
+					}
+				}
+			}
+			subvention.setDeadline(new Date(Collections.min(deadlinelist)));
+			subvention.setNom(subventionName+"/"+jsonTopic.getString("callIdentifier")+"/"+jsonTopic.getString("identifier"));
+			subvention.setShortDescription(jsonTopic.getString("title"));
+
+		} catch (final JSONException e) {
+			e.printStackTrace();
+		}
+	}

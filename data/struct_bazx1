@@ -1,0 +1,43 @@
+{ 
+"_id" : 18, 
+"areas" : 
+[ 	{ 	"name" : "Espace Economique européen", 	"_id" : 1 },
+ 	{ 	"name" : "Balkans", 	"_id" : 5 },
+ 	{ 	"name" : "Suisse", 	"_id" : 10 },
+ 	{ 	"name" : "Pays candidats", 	"_id" : 3 },
+ 	{ 	"name" : "Union Européenne", 	"_id" : 2 } 
+], 
+"attachment" : "", 
+"complet" : false, 
+"conditionFinancement" : "Jusqu'à 50% du coût total du projet.", 
+"contact" : "Nom : Christian TABACARU\nE-mail : cristian.tabacaru@coebank.org\nFax : 33 1 47 55 03 38\nAdresse : 55 Avenue Kl\nF-75784 Paris cedex 16\nFrance", 
+"dateAjout" : ISODate("2015-04-06T09:49:59.582Z"), 
+"dateMiseAJour" : ISODate("2015-04-06T14:31:49.666Z"), 
+"dateValidation" : ISODate("2015-04-06T14:31:49.666Z"), 
+"deadline" : ISODate("2019-12-31T23:00:00Z"), 
+"details" : "La Banque de développement du Conseil de l'Europe (CEB), créé en 1956, fournit des prêts et des garanties, pas des subventions, à ses Etats membres, aux autorités locales ou à des institutions financières. Ses prêts sont destinés à renforcer la cohésion sociale en Europe et soutenir l'emploi dans les régions défavorisées.\n \nLes projets d'investissement productif (immobilisations) ont pour principal but  de promouvoir la création et le maintien d'emplois viables et faciliter l'accès au crédit.\n \n  Les pays du Groupe cible de la CEB (Albanie, Bosnie-Herzégovine, Bulgarie, Croatie, Chypre, République tchèque, Estonie, Géorgie, Hongrie, Lettonie, Lituanie, Malte, Moldavie, Monténégro, Pologne, Roumanie, Serbie, Slovaquie, Slovénie, l'ex-yougoslaves République de Macédoine et Turquie) peuvent être cofinancé à un maximum de 90%", 
+"difficulty" : 3, 
+"nom" : "CEB - CREATION ET MAINTIEN D'EMPLOIS VIABLES", 
+"organisations" : 
+[ 	{ 	"_id" : 4, 	"name" : "Autorités locales et régionales" },
+ 	{ 	"_id" : 6, 	"name" : "Administrations / Etats" },
+ 	{ 	"_id" : 13, 	"name" : "Banques" },
+ 	{ 	"_id" : 11, 	"name" : "PME / PMI" } 
+], 
+"permanent" : false, 
+"requirements" : "\nCritères:\n\n- Investissements fixes ou d'équipement de production, y compris sous la forme de crédit-bail, visant à la création et / ou le maintien d'emplois permanents et/ou saisonniers.\n- Financement pour les PME exerçant des activités artisanales ou entreprises familiales exerçant une activité économique régulière.\n- Pour PME situées dans des régions avec un taux de chômage égal ou supérieur au taux de chômage moyen au sein de l'UE.\n- Les investissements dans le secteur agricole primaire, les armes, l'énergie nucléaire, le tabac, la production de spiritueux, le jeu, la pornographie et les produits considérés comme nuisibles à la santé et à l'environnement sont exclus du dispositif.", "shortDescription" : "Prêts et garanties pour des projets d'investissement relatifs à la création d'emplois dans les PME situées dans les régions défavorisées. Ce financement européen vise à renforcer la cohésion sociale en Europe et à soutenir l'emploi dans les régions défavorisées.", 
+"tags" : 
+[ 	{ 	"_id" : "552256c777c833c555d3e3bd", 	"name" : "Développement local", 	"type" : 3 },
+ 	{ 	"_id" : "552256c777c833c555d3e3c5", 	"name" : "Autres activités de services", 	"type" : 1 },
+ 	{ 	"_id" : "552256c777c833c555d3e3c9", 	"name" : "Affaires sociales", 	"type" : 3 },
+ 	{ 	"_id" : "552256c777c833c555d3e3c8", 	"name" : "Emploi", 	"type" : 3 } 
+], 
+"tailleMax" : 300000000, 
+"tailleMin" : 0, 
+"themes" : 
+[	{  "name" : "DÉVELOPPEMENT ÉCONOMIQUE",  "_id" : 2 } 
+], 
+"type" : 4, 
+"valide" : true, 
+"website" : "http://www.coebank.org" 
+}

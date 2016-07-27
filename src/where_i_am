@@ -1,0 +1,11 @@
+se documenter sur les tf-idf et méthodes d'apprentissage :
+association parmi une liste de themes de plusieurs themes à un texte
+pour apprendre utiliser le résultat de cedric
+
+
+txt to structure -> ok
+trouver les themes selon les stem ->  ok
+calcul tf-idf -> ok
+
+a coder :
+apprentissage pour trouver les themes selon les scores des mots et fiches dans la base

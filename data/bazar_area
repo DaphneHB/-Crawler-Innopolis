@@ -1,0 +1,20 @@
+{ "_id" : 1, "name" : "Espace Economique européen" }
+{ "_id" : 2, "name" : "Union Européenne" }
+{ "_id" : 3, "name" : "Pays candidats" }
+{ "_id" : 4, "name" : "Pays méditerranéens" }
+{ "_id" : 5, "name" : "Balkans" }
+{ "_id" : 6, "name" : "Afrique-Caraibes-Pacifique" }
+{ "_id" : 7, "name" : "Pays en développement" }
+{ "_id" : 8, "name" : "Amérique latine" }
+{ "_id" : 9, "name" : "Asie" }
+{ "_id" : 10, "name" : "Suisse" }
+{ "_id" : 11, "name" : "Nouveaux Etats Indépendants" }
+{ "_id" : 12, "name" : "Amérique du Nord" }
+{ "_id" : 13, "name" : "Monde Entier" }
+{ "_id" : 14, "name" : "Mondial" }
+{ "_id" : 15, "name" : "Amérique centrale" }
+{ "_id" : 16, "name" : "Océanie" }
+{ "_id" : 17, "name" : "European Union" }
+{ "_id" : 18, "name" : "Candidate countries" }
+{ "_id" : 19, "name" : "Pays du Golfe" }
+

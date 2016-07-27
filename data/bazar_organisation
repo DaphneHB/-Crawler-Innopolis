@@ -1,0 +1,18 @@
+{ "_id" : 1, "name" : "ONG" }
+{ "_id" : 2, "name" : "Agences / Chambres de Commerce" }
+{ "_id" : 3, "name" : "Organisations à but non lucratif / Associations" }
+{ "_id" : 4, "name" : "Autorités locales et régionales" }
+{ "_id" : 5, "name" : "Fédérations / Syndicats" }
+{ "_id" : 6, "name" : "Administrations / Etats" }
+{ "_id" : 7, "name" : "Centres de Recherche / Laboratoires" }
+{ "_id" : 8, "name" : "Centres de formation" }
+{ "_id" : 9, "name" : "Universités" }
+{ "_id" : 10, "name" : "Grandes entreprises" }
+{ "_id" : 11, "name" : "PME / PMI" }
+{ "_id" : 12, "name" : "Fonds d'investissement" }
+{ "_id" : 13, "name" : "Banques" }
+{ "_id" : 14, "name" : "Organisations internationales" }
+{ "_id" : 15, "name" : "Ecoles" }
+{ "_id" : 16, "name" : "Entreprises" }
+{ "_id" : 17, "name" : "Entreprises de l'Economie Sociale et Solidaire" }
+
